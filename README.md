@@ -22,11 +22,11 @@ Framework: Flask
 
 Installation & UsageIPL Match Prediction Using Machine Learning
 
-Overview
+**Overview**
 
 A machine learning project designed to predict IPL match outcomes by analyzing historical data, team performances, player statistics, and match conditions. The model provides accurate predictions and actionable insights for cricket enthusiasts and analysts.
 
-Features
+**Features**
 
 Conducted data preprocessing and feature engineering on IPL datasets.
 
