@@ -52,10 +52,3 @@ Run the application: python app.py
 
 Access the web interface at http://localhost:5000.
 
-Clone the repository: git clone https://github.com/your-repo
-
-Install dependencies: pip install -r requirements.txt
-
-Run the application: python app.py
-
-Access the web interface at http://localhost:5000.
