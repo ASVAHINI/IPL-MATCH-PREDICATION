@@ -45,12 +45,15 @@ Copy
 Edit
 git clone https://github.com/ASVAHINI/ipl-match-prediction.git
 Install dependencies:
-
+bash
+Copy
+Edit
 pip install -r requirements.txt
 Run the Flask app:
+
 python app.py
 🤝 Contributors
-Your Name – GitHub Profile
+ASVAHINI – GitHub Profile
 📚 References
 Machine Learning in Sports Prediction
 Kaggle IPL Dataset
