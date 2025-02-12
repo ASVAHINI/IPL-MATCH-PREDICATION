@@ -75,7 +75,7 @@ The model predicts which team has a higher chance of winning based on input fact
 ---
 
 ## 🤝 Contributors  
-- **ASVAHINI** – [GitHub Profile](https://github.com/yourusername)  
+- **ASVAHINI** – [GitHub Profile](https://github.com/ASVAHINI)  
 
 ---
 
